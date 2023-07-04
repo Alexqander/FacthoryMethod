@@ -1,0 +1,1 @@
+## Factory method for creating a new instance of the class with the given arguments and properties as its arguments and properties as its properties.
